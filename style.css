@@ -70,11 +70,11 @@ li{
         padding:0px;
     }
     .col1 img{
-    margin-left:2px;
+        margin-left:2px;
     }
     .col1 p{
 /*     font-family: 'Times New Roman', Times, serif;*/
-    font-size: 12px; 
+        font-size: 12px; 
 /*     line-height: 15px; */
 /*     color: #000; */
     }
