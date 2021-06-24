@@ -67,5 +67,8 @@ li{
         height: 1120px;
     }
     .col1{
-        padding:1px;
+        padding:0px;
+}
+    .col1 img{
+    margin-left:10pxpx;
 }
