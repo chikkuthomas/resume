@@ -66,8 +66,9 @@ li{
 @media(max-width:640px){
     .row{
         width:640px;
-
         height:1120px;
+        margin-left:0px;
+        margin-right:0px;
     }
     .col1{
         padding:10px;
