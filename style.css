@@ -3,7 +3,7 @@
     width: 800px;
     height: 980px;
     border:solid 1px black;
-    margin-left: 200px;
+    margin-left: 280px;
     display: flex;
     background-color:#f7dfda  ;
   
@@ -58,4 +58,10 @@ em{
 }
 li{
     line-height: 30px;
+}
+@media(max-width:640px){
+    .row{
+        width: 620px;
+        margin-left: 10px;
+    }
 }
