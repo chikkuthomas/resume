@@ -65,7 +65,7 @@ li{
 /* for mobile version */
 @media(max-width:640px){
     .row{
-        width: 500px;
+        width: 640px;
 /*         margin-left: 10px; */
         height: 1120px;
     }
