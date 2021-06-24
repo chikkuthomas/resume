@@ -59,10 +59,13 @@ em{
 li{
     line-height: 30px;
 }
+/* for mobile version */
 @media(max-width:640px){
     .row{
         width: 620px;
         margin-left: 10px;
         height: 1120px;
     }
+    .col1{
+        padding:5px;
 }
